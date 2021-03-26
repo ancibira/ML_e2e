@@ -30,4 +30,9 @@ Navigate to compute on the left hand pane and create a new compute instance. If 
 
 ## 4. Use Notebooks to Train and Deploy an ML model
 
-The notebook is attached. 
+The notebook is attached which you can upload to your AML workspace. 
+
+Key points:
+- Yes the model is terrible but you should have known that from the sample file. 
+- Be aware of the paths of your output files and environment files. 
+- Check the model and endpoint registrations when you're done by going to the AML portal and navigating to the relevant area.
